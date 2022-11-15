@@ -28,7 +28,7 @@ import static org.mockito.Mockito.times;
 
 @SpringBootTest
 @RunWith(MockitoJUnitRunner.class)
-public class ProduitServiceMockTest {
+public class ProduitServiceTest {
 
 
     @Mock
